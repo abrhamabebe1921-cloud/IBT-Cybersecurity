@@ -1,0 +1,26 @@
+# Day 2 — Social Engineering & SIEM
+
+## Topics
+
+* Social Engineering
+* Phishing, Vishing & Smishing
+* Spear Phishing & Whaling
+* Pretexting, Baiting & Tailgating
+* Security Awareness & Prevention
+
+### SIEM
+
+* SIEM Definition & Purpose
+* Log Collection & Storage
+* Log Sources
+* Syslog & Log Agents
+* Event Correlation
+* Alert Generation
+* Threat Detection
+* Incident Investigation
+* SIEM Use Cases
+* SOC & SIEM
+* SIEM vs SOAR
+* False Positives & False Negatives
+* Threat Intelligence & IOC
+* Security Monitoring & Reporting
