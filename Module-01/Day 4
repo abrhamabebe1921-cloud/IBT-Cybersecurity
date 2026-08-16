@@ -1,0 +1,34 @@
+Day 3 — Vulnerability Assessment
+
+Topics
+
+- Vulnerability Assessment Fundamentals
+- Threat, Vulnerability, Exploit & Risk
+- Types of Vulnerabilities
+  - Software Vulnerabilities
+  - Network Vulnerabilities
+  - Operating System Vulnerabilities
+  - Human Vulnerabilities
+- CVE & CVSS
+- Vulnerability Assessment Process
+- Vulnerability Assessment Life Cycle
+- Asset Discovery
+- Vulnerability Scanning
+- Vulnerability Analysis
+- Risk Prioritization
+- Vulnerability Remediation
+- Verification & Rescanning
+- Patch Management
+- True Positive, False Positive
+- False Negative, True Negative
+- Vulnerability Assessment Tools
+  - Nmap
+  - Nessus
+  - OpenVAS/Greenbone
+  - Qualys
+  - Nikto
+  - OWASP ZAP
+  - Metasploit
+- Vulnerability Scanner vs Penetration Testing
+- Vulnerability Scanner = Find
+- Penetration Testing = Exploit
