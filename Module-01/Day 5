@@ -1,0 +1,19 @@
+
+
+1. **Authentication & Access Control**
+2. **AAA Framework** — Authentication, Authorization, Accounting
+3. **Authentication Factors & MFA**
+4. **Password Security & Password Managers**
+5. **MFA Methods & MFA Attacks**
+6. **Single Sign-On (SSO) & Identity Provider (IdP)**
+7. **Access Control Models** — DAC, MAC, RBAC, ABAC
+8. **Principle of Least Privilege (PoLP)**
+9. **Zero Trust Security**
+10. **Biometrics** — FAR, FRR, Liveness Detection
+11. **Data Security** — Data at Rest, Transit, and Use
+12. **Symmetric vs. Asymmetric Encryption**
+13. **PKI & Digital Certificates**
+14. **3-2-1 Backup Rule**
+15. **DLP (Data Loss Prevention)**
+16. **GDPR & Data Privacy**
+
